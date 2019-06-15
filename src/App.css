@@ -31,3 +31,15 @@
     transform: rotate(360deg);
   }
 }
+
+.products {
+  ul{
+    list-style: none;
+  }
+}
+
+
+.product {
+  margin: 0 auto;
+  display: table;
+}
